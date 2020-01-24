@@ -1461,9 +1461,9 @@ let cards = [
 	githubLink: "https://github.com/stealthman22"
 },
 {
-      artName: "Animatron",
-      pageLink: "./Art/Animatron/index.html",
-      imageLink: "./Art/Animatron/trance.gif",
+      artName: "babykicking",
+      pageLink: "./Art/babyKicking/index.html",
+      imageLink: "./Art/babyKicking/baby kicking.gif",
       author: "James",
       githubLink: "https://github.com/jamesjaj"
     }
